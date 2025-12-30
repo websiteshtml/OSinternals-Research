@@ -6,4 +6,4 @@ this is the rulebook for os internals research
 3. you can make malware but have "malware" or "virus" in the name
 4. have fun
 
-website is located at
+website is located at https://websiteshtml.github.io/OSinternals-Research/
