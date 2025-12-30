@@ -1,10 +1,9 @@
 hello
+this is the rulebook for os internals research
 
-this is the rulebook
-
-1.  no deleting stuff if its correct information
+1. no deleting correct information
 2. no griefing
-3. i dont care if you make malware but make sure its labelled as malware
-4. have fun i guess
+3. you can make malware but have "malware" or "virus" in the name
+4. have fun
 
-thank you for reading this and welcome to os internals research
+website is located at
